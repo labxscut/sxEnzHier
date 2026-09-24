@@ -91,9 +91,45 @@ For custom model training or advanced usage, refer to the EnzHier package module
 
 ## Citation
 
-If you use EnzHier in your research, please cite our paper:
+If you use this codebase, please cite **both** the conference paper (**EnzHier**, ISBRA / LNCS) and the journal paper (**sxEnzHier**, JCB in press):
 
-[Paper citation information]
+### 1. EnzHier — ISBRA 2025 (LNCS)
+
+Duan, H., Li, Z., Wu, Y., Ren, B., Chen, W., Wang, F., Lan, D., Wang, Y., & Xia, L. C. (2026).
+**EnzHier: Accurate Enzyme Function Prediction Through Multi-scale Feature Integration and Hierarchical Contrastive Learning.**
+In *Bioinformatics Research and Applications* (ISBRA 2025). *Lecture Notes in Computer Science*, vol. **15757**, pp. **217–227**. Springer.
+https://doi.org/10.1007/978-981-95-0695-8_18
+
+```bibtex
+@InProceedings{Duan2026EnzHier,
+  author    = {Duan, Hongyu and Li, Ziyan and Wu, Yixuan and Ren, Bozhen and Chen, Wen and Wang, Fanghua and Lan, Dongming and Wang, Yonghua and Xia, Li C.},
+  title     = {{EnzHier}: Accurate Enzyme Function Prediction Through Multi-scale Feature Integration and Hierarchical Contrastive Learning},
+  booktitle = {Bioinformatics Research and Applications (ISBRA 2025)},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15757},
+  pages     = {217--227},
+  year      = {2026},
+  publisher = {Springer},
+  doi       = {10.1007/978-981-95-0695-8_18}
+}
+```
+
+### 2. sxEnzHier — *Journal of Computational Biology* (in press)
+
+Duan, H., Ren, B., Wu, Y., Li, H., Chen, W., Wang, F., Lan, D., Wang, Y., & Xia, L. C. (in press).
+**sxEnzHier: A Multi-Scale Representation Learning Framework for Hierarchical Enzyme Functional Annotation.**
+*Journal of Computational Biology* (Mary Ann Liebert / SAGE). Manuscript ID **JCB-2025-0547**.
+
+```bibtex
+@article{DuanInPressSxEnzHier,
+  author  = {Duan, Hongyu and Ren, Bozhen and Wu, Yixuan and Li, Hui and Chen, Wen and Wang, Fanghua and Lan, Dongming and Wang, Yonghua and Xia, Li C.},
+  title   = {{sxEnzHier}: A Multi-Scale Representation Learning Framework for Hierarchical Enzyme Functional Annotation},
+  journal = {Journal of Computational Biology},
+  year    = {in press},
+  note    = {Manuscript ID JCB-2025-0547}
+}
+```
+
 
 ## License
 
