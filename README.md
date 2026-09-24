@@ -97,4 +97,10 @@ If you use EnzHier in your research, please cite our paper:
 
 ## License
 
-[License information]
+This software is licensed under the **[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)**.
+
+- **Allowed:** personal, academic, and other noncommercial research use (see license for definitions).
+- **Not allowed:** commercial use, sale, or providing the software to a third party for a fee without a separate commercial license.
+- Full terms: see [`LICENSE`](./LICENSE).
+- Commercial licensing inquiries: contact the lab / corresponding author.
+
